@@ -1,0 +1,9 @@
+# personal config (contains a password)
+db.properties
+
+# build output and IDE files
+out/
+bin/
+*.class
+.idea/
+*.iml
